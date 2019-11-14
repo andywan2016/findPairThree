@@ -15,7 +15,7 @@ $ git clone https://github.com/andywan2016/findPair.git
 ## How to run
 **1.Linux|Unix**
 <br>
-There is a Linux\Unix executable file in root dir : <strong><em>find-pair</em></strong>
+There is a Linux\Unix executable file in home dir of this pakcage : <strong><em>find-pair</em></strong>
 <br>
 Before running the program, user may need add execute permission by:
 <br>
